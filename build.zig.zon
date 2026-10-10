@@ -1,8 +1,8 @@
 .{
     .name = .zmath,
     .fingerprint = 0xfd23d422bd223cc2,
-    .version = "0.11.0-dev",
-    .minimum_zig_version = "0.16.0",
+    .version = "0.12.0",
+    .minimum_zig_version = "0.17.0",
     .paths = .{
         "build.zig",
         "build.zig.zon",
